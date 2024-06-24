@@ -1,6 +1,6 @@
 # BVDGroup App
 
-Displays a Login in the app using BVDgroup Lohin API, site location on Map using a marker, Site Listing, and detail View, QR Code scanner
+Displays a Login in the app using BVDgroup Login API, site location on Map using a marker, Site Listing, and detail View, QR Code scanner
 
 
 # Tech Stack: Swift, SwiftUI
@@ -11,9 +11,12 @@ Displays a Login in the app using BVDgroup Lohin API, site location on Map using
 
 # Screenshots
 
-<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/IMG_1653.PNG" width="360" height="760" />
-
-<img src="https://github.com/khushbupatel64/BVD/assets/IMG_1654.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/Home.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/HomeViewiwthSites.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/Profile.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/QRCode.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/SitesDetail.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/SitesListing.PNG" width="360" height="760" />
 
 ## Error and No data view screenshots
 
