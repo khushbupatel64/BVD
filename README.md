@@ -11,7 +11,7 @@ Displays a Login in the app using BVDgroup Lohin API, site location on Map using
 
 # Screenshots
 
-<img src="https://github.com/khushbupatel64/BVD/assets/IMG_1653.PNG" width="360" height="760" />
+<img src="https://github.com/khushbupatel64/BVD/blob/master/assets/IMG_1653.PNG" width="360" height="760" />
 
 <img src="https://github.com/khushbupatel64/BVD/assets/IMG_1654.PNG" width="360" height="760" />
 
